@@ -2,7 +2,7 @@
   "name": "hooks-snake-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kyohayata.github.io/snake-game-react-",
+  "homepage": "https://jonio-uhei.github.io/react-snake-game",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
